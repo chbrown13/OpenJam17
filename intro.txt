@@ -1,0 +1,4 @@
+Hello Operator.
+Your mission is to help guide Morpheus, Neo, and Trinity through the Matrix.
+Each member of the resistance will notify you with what they need in order to return safely.
+Use the following commands to help them out:

@@ -1,0 +1,5 @@
+ls            list files in current folder
+ls <folder>   list files in given folder
+cd <folder>   change into given folder
+cd ..         leave the current folder
+rm <file>
